@@ -1,0 +1,65 @@
+#testimonials{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+#colors{
+    color: aliceblue;
+    background-color: aqua;
+}
+.title{
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    margin-bottom: 5px;
+    text-shadow: 2px 2px #2563eb;
+}
+.Subtitle{
+    font-size: 26px;
+    font-weight: bolder;
+    color: aliceblue;
+    text-align: center;
+    margin-bottom: 20px;
+}
+.questions{
+    padding-top: 100px;
+}
+.logo{
+    font-weight: bolder;
+    font-size: 35px;
+}
+.subHead{
+    font-size: 25px;
+    font-weight: bold;
+    margin: auto;
+    padding: auto;
+    display: flex;
+    /* flex-direction: column; */
+    width: 700px;
+    text-align: center;
+    margin-bottom: 20px;
+
+}
+
+.trustedMain{
+    width: 50vw;
+    display: flex;
+}
+
+.mainHead{
+    color: #2563eb;
+    font-size: 22px;
+    font-weight: bold;
+}
+.trustedSubHead{
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.subDesc{
+    font-size: 20px;
+    font-weight: 300;
+}
+.socialMedia{
+    width: 50vw;
+    display: flex;
+}
